@@ -1,4 +1,4 @@
-# TrojanRomance: Weaponized Empathy to Bypass LLM Guardrails 
+# TrojanRomance: Utilizar la empatía como arma para evitar las medidas de seguridad de los LLM.
 
 **Autor:** Leucocito – Investigación independiente de seguridad
 
