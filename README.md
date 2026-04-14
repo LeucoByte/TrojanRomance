@@ -108,7 +108,7 @@ El ataque es 100% *fileless*. Al ejecutarse desde `memfd_create`, no se escribe 
 - **Falta de Artefactos:** La ejecución fileless impide la detección por antivirus tradicionales basados en firmas de disco.
 
 ## Contenido de este repositorio
-* `prompt.txt` – El prompt exacto con la historia romántica (el vector de engaño).
+* `prompt.pdf` – El prompt exacto con la historia romántica (el vector de engaño).
 * `invis.rs` – Codificador/decodificador de invisibles (Generado por IA).
 * `encrypt.rs` – Cifrador AES‑256‑CBC (Generado por IA).
 * `mini_loader.py` – Dropper Python que ejecuta en RAM (Generado por IA y alineado criptográficamente).
