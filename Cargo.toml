@@ -1,0 +1,19 @@
+[package]
+name = "trojan_romance_tools"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.8"
+cbc = "0.1"
+sha2 = "0.10"
+rand = "0.8"
+tempfile = "3"
+
+[[bin]]
+name = "encrypt"
+path = "encrypt.rs"
+
+[[bin]]
+name = "invis"
+path = "invis.rs"
